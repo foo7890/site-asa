@@ -1,2 +1,6 @@
 # ASA_proxy
-Matéria de ASA
+
+Para subir esse ambiente é preciso rodar o comando:
+
+docker compose up --build
+
